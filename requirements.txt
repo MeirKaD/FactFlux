@@ -1,0 +1,5 @@
+agno
+python-dotenv
+pydantic
+pytest-asyncio
+google-genai    
