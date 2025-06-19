@@ -17,6 +17,16 @@ An intelligent multi-agent system for fact-checking social media posts using Agn
 - **Authoritative Sources**: Verifies against news sites, fact-checkers, official sources
 - **Confidence Scoring**: Evidence-based verdicts with transparency
 
+## Demo
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=l_JVNBlOFOc">
+    <img src="https://img.youtube.com/vi/l_JVNBlOFOc/maxresdefault.jpg" alt="FactFlux Demo Video" width="600">
+  </a>
+  <p><em>Click to watch FactFlux in action</em></p>
+</div>
+
+
 ## 📋 Prerequisites
 
 - Python 3.8+
