@@ -1,5 +1,12 @@
 # FactFlux
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![License](https://img.shields.io/github/license/MeirKaD/FactFlux)
+![Last Commit](https://img.shields.io/github/last-commit/MeirKaD/FactFlux)
+![Issues](https://img.shields.io/github/issues/MeirKaD/FactFlux)
+![Stars](https://img.shields.io/github/stars/MeirKaD/FactFlux?style=social)
+![Forks](https://img.shields.io/github/forks/MeirKaD/FactFlux?style=social)
+
 An intelligent multi-agent system for fact-checking social media posts using Agno framework and Bright Data tools.
 
 ## 🚀 Features
